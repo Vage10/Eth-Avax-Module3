@@ -1,4 +1,4 @@
-# Eth-Avax-Module3
+# Create and Mint Token
 
 writing a smart contract to create our own token and deploy it using HardHat 
 
